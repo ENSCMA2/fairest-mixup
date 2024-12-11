@@ -1,0 +1,1 @@
+{"name": "FER", "label": "Gave birth to child within the past 12 months", "predicateType": "int", "group": "N/A", "limit": 0, "suggested-weight": "PWGTP", "values": {"item": {"0": "N/A (less than 15 years/greater than 50 years/ male)", "2": "No", "1": "Yes"}}}

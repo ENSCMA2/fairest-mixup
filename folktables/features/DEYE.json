@@ -1,0 +1,1 @@
+{"name": "DEYE", "label": "Vision difficulty", "predicateType": "int", "group": "N/A", "limit": 0, "suggested-weight": "PWGTP", "values": {"item": {"1": "Yes", "2": "No"}}}

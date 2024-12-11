@@ -1,0 +1,1 @@
+{"name": "WKHP", "label": "Usual hours worked per week past 12 months", "predicateType": "int", "group": "N/A", "limit": 0, "suggested-weight": "PWGTP", "values": {"item": {"0": "N/A (less than 16 years old/did not work during the past 12 months)", "99": "99 Or More Usual Hours"}, "range": [{"min": "1", "max": "98", "description": "1 to 98 usual hours"}]}}

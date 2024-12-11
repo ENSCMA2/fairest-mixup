@@ -1,0 +1,1 @@
+{"name": "DOUT", "label": "Independent living difficulty", "predicateType": "int", "group": "N/A", "limit": 0, "suggested-weight": "PWGTP", "values": {"item": {"2": "No", "0": "N/A (Less than 15 years old)", "1": "Yes"}}}

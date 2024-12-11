@@ -1,0 +1,5 @@
+*.DS_Store
+folktables/*data/*
+*/results/*
+*__pycache_*
+*.pt

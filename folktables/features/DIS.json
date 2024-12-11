@@ -1,0 +1,1 @@
+{"name": "DIS", "label": "Disability recode", "predicateType": "int", "group": "N/A", "limit": 0, "suggested-weight": "PWGTP", "values": {"item": {"1": "With a disability", "2": "Without a disability"}}}

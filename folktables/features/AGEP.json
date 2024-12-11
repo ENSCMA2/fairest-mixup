@@ -1,0 +1,1 @@
+{"name": "AGEP", "label": "Age", "predicateType": "int", "group": "N/A", "limit": 0, "suggested-weight": "PWGTP", "values": {"item": {"00": "Under 1 year"}, "range": [{"min": "1", "max": "99", "description": "1 to 99 years (Top-coded***)"}]}}

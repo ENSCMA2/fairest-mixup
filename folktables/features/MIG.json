@@ -1,0 +1,1 @@
+{"name": "MIG", "label": "Mobility status (lived here 1 year ago)", "predicateType": "int", "group": "N/A", "limit": 0, "suggested-weight": "PWGTP", "values": {"item": {"2": "No, outside US and Puerto Rico", "3": "No, different house in US or Puerto Rico", "1": "Yes, same house (nonmovers)", "0": "N/A(less than 1 year old)"}}}
